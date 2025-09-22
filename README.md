@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Darion McAdoo
 
-<!--
-**ddmcadoo/ddmcadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Scientist**  
+_Turning data into actionable insights_
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills & Tools
+- Python
+- Machine Learning
+- Data Analysis
+
+---
+
+### 🚀 Featured Project
+
+**[Face Detection](https://github.com/ddmcadoo/Face-Dectection)**  
+Detect faces in images using state-of-the-art algorithms and Python libraries. This project showcases my passion for computer vision and practical applications of machine learning.
+
+---
+
+### 📊 Other Projects
+- [Customer Segmentation](https://github.com/ddmcadoo/Customer-Segmentation)
+- [Walmart Sales Forecasting](https://github.com/ddmcadoo/Walmart-Sales-Forecasting)
+
+
+---
+
+<!-- Add social links or a fun fact here anytime! -->
