@@ -22,7 +22,7 @@ Detect faces in images using state-of-the-art algorithms and Python libraries. T
 ### 📊 Other Projects
 - [Customer Segmentation](https://github.com/ddmcadoo/Customer-Segmentation)
 - [Walmart Sales Forecasting](https://github.com/ddmcadoo/Walmart-Sales-Forecasting)
-
+- [Campaign Analytics](https://github.com/ddmcadoo/Campaign-Analytics)
 
 ---
 
